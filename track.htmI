@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Track Your Delivery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Tracking Results</h1>
+  </header>
+  <main>
+    <p><strong>Tracking Number:</strong> TDP123456</p>
+    <p><strong>Status:</strong> In Transit</p>
+    <p><strong>Expected Delivery:</strong> June 20, 2025</p>
+    <p><strong>Location:</strong> Yaoundé, Cameroon</p>
+    <a href="index.html">Back to Search</a>
+  </main>
+</body>
+</html>
