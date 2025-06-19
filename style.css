@@ -48,3 +48,13 @@ a {
 a:hover {
   text-decoration: underline;
 }
+@media screen and (max-width: 600px) {
+  input[type="text"], button {
+    width: 90%;
+    margin-bottom: 10px;
+  }
+
+  button {
+    width: 100%;
+  }
+}
